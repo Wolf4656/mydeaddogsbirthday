@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style-mobile.css">
+    <script type="text/javascript" src='script.js'></script>
   </head>
 </header>
 <body>
@@ -31,5 +32,5 @@
   </div>
 <div class="container">
   <div class="space">
-    
+
   </div>

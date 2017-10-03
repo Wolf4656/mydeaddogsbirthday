@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 
-<div class="about">
+<div class="show-in-progress">
   <p>WHAT IS MY DEAD DOG’S BIRTHDAY?</p>
 
   <p>

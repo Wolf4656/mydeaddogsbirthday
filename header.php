@@ -12,18 +12,11 @@
   <div class="hidden-xs">
   <aside class="sidebar">
     <img src="PNG FONT MY DEAD DOGS BIRTHDAY.png" alt="" id="title">
-    <p>show title</p>
-    <p>curated by</p><br>
+    <p>I KNEW YOU BEFORE I MET YOU</p>
+    <p>CURATED BY JESSICA PETRYLAK</p><br>
     <div class="show-description">
       <p>
-        current show description
-        current show description
-        current show description
-        current show description
-        current show description
-        current show description
-        current show description
-        current show description
+
        </p>
     </div>
     <?php include 'navbar.php' ?>
